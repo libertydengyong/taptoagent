@@ -1,0 +1,1 @@
+{"redirects":[{"destination":"https://taptoagent.com/$1","has":[{"type":"host","value":"www.taptoagent.com"}],"permanent":true,"source":"/(.*)"}]}
