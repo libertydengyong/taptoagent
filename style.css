@@ -193,3 +193,11 @@ code {
 .footer-nav { display: flex; gap: 1.2rem; flex-wrap: wrap; }
 .footer-nav a { color: var(--muted); font-size: .88rem; }
 .footer-nav a:hover { color: var(--text); }
+
+/* ---- articles ---- */
+.wrap.article { max-width: 760px; }
+.article .meta { color: var(--muted); font-size: .88rem; margin: -.2rem 0 1.6rem; }
+.article p { margin: 1rem 0; }
+.article h2 { font-size: 1.4rem; margin: 2.4rem 0 1rem; padding-bottom: .4rem; border-bottom: 2px solid var(--accent-soft); }
+.article h3 { font-size: 1.12rem; margin: 1.8rem 0 .5rem; }
+.article ul.check { margin: 1rem 0; }
