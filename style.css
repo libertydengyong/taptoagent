@@ -180,11 +180,12 @@ code {
   .header-inner { padding: .7rem .9rem; }
   nav.main-nav a { padding: .4rem .55rem; font-size: .85rem; }
   .wrap { padding: 1.4rem .9rem 3rem; }
+  .crumbs { padding: 0 .9rem; }
   .hero { padding: 2.4rem .8rem 2rem; }
 }
 
 /* ---- breadcrumbs ---- */
-.crumbs { font-size: .85rem; color: var(--muted); margin-bottom: 1.6rem; }
+.crumbs { max-width: var(--maxw); margin: 1.1rem auto 1.6rem; padding: 0 1.25rem; font-size: .85rem; color: var(--muted); }
 .crumbs a { color: var(--muted); }
 .crumbs .sep { margin: 0 .45rem; }
 .crumbs [aria-current] { color: var(--text); font-weight: 600; }
