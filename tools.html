@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI Agent工具推荐_2026 AI智能体导航-TapToAgent</title>
+<meta name="description" content="24 款精选 AI 工具导航：通用助手、编程、自动化、研究、开源框架五大分类，每款一句话点评。TapToAgent 精选。">
+<link rel="stylesheet" href="style.css">
+<style>
+.cat-jump { display: flex; gap: .5rem; flex-wrap: wrap; margin: 1.2rem 0 0; }
+.cat-jump a {
+  font-size: .88rem; padding: .4rem .95rem; border-radius: 999px;
+  background: var(--surface); border: 1px solid var(--border); color: var(--muted);
+}
+.cat-jump a:hover { border-color: var(--accent); color: var(--accent-text); text-decoration: none; }
+.tool-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 1rem; }
+.tool-card {
+  background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius);
+  padding: 1.15rem 1.2rem; box-shadow: var(--shadow);
+  transition: transform .18s ease; display: flex; flex-direction: column; gap: .45rem;
+}
+.tool-card:hover { transform: translateY(-3px); }
+.tool-card h3 { margin: 0; font-size: 1.02rem; }
+.tool-card h3 a { color: var(--text); }
+.tool-card p { font-size: .9rem; color: var(--muted); margin: 0; flex: 1; }
+.tool-card .t { font-size: .75rem; font-weight: 600; color: var(--accent-text);
+  background: var(--accent-soft); padding: .12rem .6rem; border-radius: 999px; align-self: flex-start; }
+</style>
+</head>
+<body>
+<header class="site-header">
+  <div class="header-inner">
+    <a class="brand" href="index.html" style="text-decoration:none">Tap<span>To</span>Agent</a>
+    <nav class="main-nav">
+      <a href="index.html">首页</a>
+      <a href="free-chatgpt.html">ChatGPT</a>
+      <a href="free-claude.html">Claude</a>
+      <a href="free-gemini.html">Gemini</a>
+      <a href="free-open.html">开源模型</a>
+      <a href="tools.html" class="active">工具导航</a>
+      <a href="public-ai.html">公益AI</a>
+      <a href="about.html">关于</a>
+    </nav>
+  </div>
+</header>
+
+<main class="wrap">
+  <h1 class="page-title">AI 工具导航</h1>
+  <p class="lead">24 款精选 AI Agent 与工具，五大分类，每款一句话点评。免费 API 渠道见<a href="index.html">首页精选</a>。</p>
+  <div class="cat-jump">
+    <a href="#general">通用助手</a>
+    <a href="#coding">编程</a>
+    <a href="#automation">自动化</a>
+    <a href="#research">研究</a>
+    <a href="#frameworks">开源框架</a>
+  </div>
+
+  <h2 class="section" id="general">通用助手</h2>
+  <div class="tool-grid">
+    <article class="tool-card"><span class="t">通用助手</span><h3><a href="https://chat.openai.com" rel="noopener">ChatGPT</a></h3><p>OpenAI 旗舰对话，生态最成熟，GPTs 与插件丰富。</p></article>
+    <article class="tool-card"><span class="t">通用助手</span><h3><a href="https://claude.ai" rel="noopener">Claude</a></h3><p>长文写作与复杂推理见长，回答品味最好。</p></article>
+    <article class="tool-card"><span class="t">通用助手</span><h3><a href="https://gemini.google.com" rel="noopener">Gemini</a></h3><p>Google 亲儿子，多模态强，超长上下文。</p></article>
+    <article class="tool-card"><span class="t">通用助手</span><h3><a href="https://copilot.microsoft.com" rel="noopener">Microsoft Copilot</a></h3><p>免登录即用，Office 全家桶联动方便。</p></article>
+    <article class="tool-card"><span class="t">通用助手</span><h3><a href="https://perplexity.ai" rel="noopener">Perplexity</a></h3><p>带引用的 AI 搜索，查资料先问它。</p></article>
+    <article class="tool-card"><span class="t">通用助手</span><h3><a href="https://poe.com" rel="noopener">Poe</a></h3><p>一个 App 聊遍各家模型，横向对比神器。</p></article>
+  </div>
+
+  <h2 class="section" id="coding">编程</h2>
+  <div class="tool-grid">
+    <article class="tool-card"><span class="t">编程</span><h3><a href="https://cursor.com" rel="noopener">Cursor</a></h3><p>AI 原生 IDE，Agent 编程的天花板之一。</p></article>
+    <article class="tool-card"><span class="t">编程</span><h3><a href="https://github.com/features/copilot" rel="noopener">GitHub Copilot</a></h3><p>老牌代码补全，IDE 插件生态最全。</p></article>
+    <article class="tool-card"><span class="t">编程</span><h3><a href="https://windsurf.com" rel="noopener">Windsurf</a></h3><p>Agentic IDE，流程化编码体验顺滑。</p></article>
+    <article class="tool-card"><span class="t">编程</span><h3><a href="https://www.anthropic.com" rel="noopener">Claude Code</a></h3><p>终端里的结对编程，改多文件工程利器。</p></article>
+    <article class="tool-card"><span class="t">编程</span><h3><a href="https://v0.dev" rel="noopener">v0</a></h3><p>一句话生成前端界面，Vercel 出品。</p></article>
+    <article class="tool-card"><span class="t">编程</span><h3><a href="https://bolt.new" rel="noopener">Bolt</a></h3><p>浏览器里从 prompt 直达全栈应用。</p></article>
+  </div>
+
+  <h2 class="section" id="automation">自动化</h2>
+  <div class="tool-grid">
+    <article class="tool-card"><span class="t">自动化</span><h3><a href="https://n8n.io" rel="noopener">n8n</a></h3><p>开源工作流自动化，自托管免费，节点 400+。</p></article>
+    <article class="tool-card"><span class="t">自动化</span><h3><a href="https://dify.ai" rel="noopener">Dify</a></h3><p>可视化搭建 AI 应用，RAG、Agent 一条龙。</p></article>
+    <article class="tool-card"><span class="t">自动化</span><h3><a href="https://coze.com" rel="noopener">Coze</a></h3><p>字节的零代码 Agent 平台，插件生态丰富。</p></article>
+    <article class="tool-card"><span class="t">自动化</span><h3><a href="https://zapier.com" rel="noopener">Zapier</a></h3><p>老牌自动化，6000+ 应用连接，稳定可靠。</p></article>
+    <article class="tool-card"><span class="t">自动化</span><h3><a href="https://make.com" rel="noopener">Make</a></h3><p>可视化流程编排，免费档够个人用。</p></article>
+  </div>
+
+  <h2 class="section" id="research">研究</h2>
+  <div class="tool-grid">
+    <article class="tool-card"><span class="t">研究</span><h3><a href="https://consensus.app" rel="noopener">Consensus</a></h3><p>只回答有论文依据的问题，写论文查它。</p></article>
+    <article class="tool-card"><span class="t">研究</span><h3><a href="https://elicit.com" rel="noopener">Elicit</a></h3><p>文献检索加总结，科研开题好助手。</p></article>
+    <article class="tool-card"><span class="t">研究</span><h3><a href="https://scite.ai" rel="noopener">Scite</a></h3><p>查论文被引用是支持还是反驳，防被忽悠。</p></article>
+  </div>
+
+  <h2 class="section" id="frameworks">开源框架</h2>
+  <div class="tool-grid">
+    <article class="tool-card"><span class="t">开源框架</span><h3><a href="https://langchain.com" rel="noopener">LangChain</a></h3><p>Agent 开发框架的事实标准，生态最大。</p></article>
+    <article class="tool-card"><span class="t">开源框架</span><h3><a href="https://crewai.com" rel="noopener">CrewAI</a></h3><p>多智能体协作框架，上手快，编排直观。</p></article>
+    <article class="tool-card"><span class="t">开源框架</span><h3><a href="https://github.com/microsoft/autogen" rel="noopener">AutoGen</a></h3><p>微软的多 Agent 对话框架，研究向首选。</p></article>
+    <article class="tool-card"><span class="t">开源框架</span><h3><a href="https://flowiseai.com" rel="noopener">Flowise</a></h3><p>拖拽式 LLM 应用搭建，开源可自托管。</p></article>
+  </div>
+
+  <p class="verify">最后验证日期：2026-10-10 · 工具官网链接定期复核</p>
+</main>
+
+<footer class="site-footer">
+  <div class="footer-inner">
+    <div>© 2026 TapToAgent · 每日精选免费 AI API</div>
+    <div class="friends">友情链接：
+      <a href="https://vpsjq.com">vpsjq.com</a>
+      <a href="https://surveypayoutwatch.com">SurveyPayoutWatch</a>
+    </div>
+  </div>
+</footer>
+</body>
+</html>
