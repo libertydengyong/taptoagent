@@ -179,6 +179,7 @@ code {
 @media (max-width: 640px) {
   .header-inner { padding: .7rem .9rem; }
   nav.main-nav a { padding: .4rem .55rem; font-size: .85rem; }
+  nav.main-nav a:first-child { padding-left: 0; }
   .wrap { padding: 1.4rem .9rem 3rem; }
   .crumbs { padding: 0 .9rem; }
   .hero { padding: 2.4rem .8rem 2rem; }
