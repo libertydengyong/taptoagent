@@ -201,3 +201,12 @@ code {
 .article h2 { font-size: 1.4rem; margin: 2.4rem 0 1rem; padding-bottom: .4rem; border-bottom: 2px solid var(--accent-soft); }
 .article h3 { font-size: 1.12rem; margin: 1.8rem 0 .5rem; }
 .article ul.check { margin: 1rem 0; }
+
+/* ---- article extras ---- */
+.article figure { margin: 2rem 0; }
+.article figure img { width: 100%; height: auto; border-radius: var(--radius); border: 1px solid var(--border); }
+.article figcaption { color: var(--muted); font-size: .85rem; text-align: center; margin-top: .6rem; }
+.article table { width: 100%; border-collapse: collapse; margin: 1.5rem 0; font-size: .92rem; display: block; overflow-x: auto; }
+.article th, .article td { text-align: left; padding: .7rem .9rem; border-bottom: 1px solid var(--border); white-space: nowrap; }
+.article th { color: var(--muted); font-size: .78rem; text-transform: uppercase; letter-spacing: .05em; }
+.article td:first-child { font-weight: 600; }
