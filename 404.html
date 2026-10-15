@@ -43,7 +43,7 @@
 
 <footer class="site-footer">
   <div class="footer-inner">
-    <div>© 2026 TapToAgent · Free AI agents, no sign up.</div>
+    <div>© <span class="y">2026</span> TapToAgent · Free AI agents, no sign up.</div>
     <nav class="footer-nav" aria-label="Site">
       <a href="/">Home</a>
       <a href="agents.html">Agents</a>
@@ -52,5 +52,6 @@
     </nav>
   </div>
 </footer>
+<script>document.querySelectorAll(".y").forEach(function(e){e.textContent=new Date().getFullYear()});</script>
 </body>
 </html>

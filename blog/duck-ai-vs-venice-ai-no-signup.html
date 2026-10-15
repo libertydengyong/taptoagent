@@ -150,7 +150,8 @@
       <a href="../about.html">About</a>
     </nav>
   </div>
-  <p class="copy">© 2026 TapToAgent · <a href="../about.html">About</a></p>
+  <p class="copy">© <span class="y">2026</span> TapToAgent · <a href="../about.html">About</a></p>
 </footer>
+<script>document.querySelectorAll(".y").forEach(function(e){e.textContent=new Date().getFullYear()});</script>
 </body>
 </html>
