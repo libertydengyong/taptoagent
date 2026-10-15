@@ -49,6 +49,18 @@
   ]
 }
 </script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {"@type": "Question", "name": "Do free AI APIs require a credit card?", "acceptedAnswer": {"@type": "Answer", "text": "None of the six listed here require a credit card to start. Google AI Studio, NVIDIA NIM, Groq and OpenRouter need an account for a key; Pollinations.ai and AI Horde need nothing at all."}},
+    {"@type": "Question", "name": "Which free API is best for beginners?", "acceptedAnswer": {"@type": "Answer", "text": "Google AI Studio — the most generous official free tier and the best docs. For zero-setup experiments, Pollinations.ai needs no key whatsoever."}},
+    {"@type": "Question", "name": "Can I use these free APIs in production?", "acceptedAnswer": {"@type": "Answer", "text": "For low-traffic projects, yes — but read the rate limits first. Free tiers are designed for prototyping and learning; serious traffic needs a paid plan."}},
+    {"@type": "Question", "name": "Are the free models any good?", "acceptedAnswer": {"@type": "Answer", "text": "Better than you'd expect. NVIDIA's free endpoints serve strong open models, Groq serves fast versions of popular ones, and OpenRouter's :free tag lets you test-drive dozens."}}
+  ]
+}
+</script>
 </head>
 <body>
 <header class="site-header">
@@ -77,7 +89,7 @@
       <span class="tag">✓ Free tier</span>
       <h3>Google AI Studio</h3>
       <dl>
-        <dt>One-line review</dt><dd>The most generous official free API tier in the industry. Sign in with a Google account, get a Gemini key, build.</dd>
+        <dt>One-line review</dt><dd>The most generous official free API tier in the industry. Sign in with a Google account, get a Gemini key, and build — generous enough for prototypes, learning projects, and low-traffic production use. The catch is rate limits that tighten as you scale, at which point you're expected to enable billing.</dd>
         <dt>Free quota</dt><dd>Generous free tier with per-minute limits — check AI Studio docs for current numbers.</dd>
         <dt>Best for</dt><dd>Production prototypes and learning the Gemini API.</dd>
       </dl>
@@ -87,7 +99,7 @@
       <span class="tag">✓ Free tier</span>
       <h3>NVIDIA NIM</h3>
       <dl>
-        <dt>One-line review</dt><dd>Free hosted endpoints for top open models — OpenAI-compatible, so your existing code just works.</dd>
+        <dt>One-line review</dt><dd>Free hosted endpoints for top open models with an OpenAI-compatible API, so your existing code just works by swapping the base URL. NVIDIA keeps a rotating cast of strong open models on free endpoints — ideal when you want serious model quality without renting a GPU.</dd>
         <dt>Free quota</dt><dd>Free <code>nvapi-</code> key; roughly 40 requests/min per model. Base URL: <code>https://integrate.api.nvidia.com/v1</code></dd>
         <dt>Verified models</dt><dd><code>moonshotai/kimi-k3</code> · <code>z-ai/glm-5.3</code> · <code>deepseek-ai/deepseek-v4.1-flash</code> · <code>google/gemma-4-31b-it</code></dd>
         <dt>Best for</dt><dd>Serious open-model workloads without a GPU.</dd>
@@ -98,7 +110,7 @@
       <span class="tag">✓ Free tier</span>
       <h3>Groq</h3>
       <dl>
-        <dt>One-line review</dt><dd>Blazing-fast inference on custom LPU hardware — the speed is genuinely startling the first time you try it.</dd>
+        <dt>One-line review</dt><dd>Blazing-fast inference on custom LPU hardware — the speed is genuinely startling the first time you try it. Tokens stream back so fast it changes what real-time features are feasible. The free tier is rate-limited but needs no credit card to start.</dd>
         <dt>Free quota</dt><dd>Free tier with rate limits; no card to start.</dd>
         <dt>Best for</dt><dd>Latency-sensitive apps and real-time features.</dd>
       </dl>
@@ -108,7 +120,7 @@
       <span class="tag">✓ No key needed</span>
       <h3>Pollinations.ai</h3>
       <dl>
-        <dt>One-line review</dt><dd>Text and image APIs with no key at all — the lowest-friction way to call an LLM from code.</dd>
+        <dt>One-line review</dt><dd>Text and image APIs with no key at all — the lowest-friction way to call an LLM from code. Just hit the endpoint; there's nothing to sign up for. It's a shared public service running on donations and goodwill, so treat it as infrastructure for demos and experiments, not production.</dd>
         <dt>Free quota</dt><dd>Free under fair use; it's a shared public service.</dd>
         <dt>Best for</dt><dd>Demos, bots, hackathons and experiments.</dd>
       </dl>
@@ -118,7 +130,7 @@
       <span class="tag">✓ Free tier</span>
       <h3>OpenRouter</h3>
       <dl>
-        <dt>One-line review</dt><dd>One key, hundreds of models. Anything tagged <code>:free</code> costs nothing — perfect for A/B testing models.</dd>
+        <dt>One-line review</dt><dd>One key, hundreds of models behind an OpenAI-compatible endpoint. Anything tagged <code>:free</code> costs nothing — perfect for A/B testing models against each other before committing. Free models carry rate limits, and availability rotates, but as a model-discovery tool it's unmatched.</dd>
         <dt>Free quota</dt><dd>Free models carry rate limits; paid models need credits.</dd>
         <dt>Best for</dt><dd>Comparing models behind a single API.</dd>
       </dl>
@@ -128,7 +140,7 @@
       <span class="tag">✓ No account</span>
       <h3>AI Horde</h3>
       <dl>
-        <dt>One-line review</dt><dd>A volunteer GPU network for text and image generation. Use the public anonymous key — no account, ever.</dd>
+        <dt>One-line review</dt><dd>A volunteer GPU network for text and image generation — real people's hardware, shared freely. Use the public anonymous key and there's no account, ever. The tradeoff is the queue: anonymous requests wait behind registered workers, so it's for patient hobbyists, not deadlines.</dd>
         <dt>Free quota</dt><dd>Queue-based; the anonymous key gets lower priority than registered workers.</dd>
         <dt>Best for</dt><dd>Hobbyists and open-source tinkerers.</dd>
       </dl>
@@ -147,7 +159,17 @@
     <li><strong>Zero setup</strong>: Pollinations.ai — no key, no signup.</li>
   </ul>
 
-  <p class="verify">Last verified: 2026-10-11 · Quotas and model lists change — always confirm on the provider's own docs.</p>
+  <h2 class="section">FAQ</h2>
+  <h3>Do free AI APIs require a credit card?</h3>
+  <p>None of the six listed here require a credit card to start. Google AI Studio, NVIDIA NIM, Groq and OpenRouter need an account (but no card) for a key; Pollinations.ai and AI Horde need nothing at all.</p>
+  <h3>Which free API is best for beginners?</h3>
+  <p>Google AI Studio — the most generous official free tier and the best docs. For zero-setup experiments, Pollinations.ai needs no key whatsoever.</p>
+  <h3>Can I use these free APIs in production?</h3>
+  <p>For low-traffic projects, yes — but read the rate limits first. Free tiers are designed for prototyping and learning; serious traffic needs a paid plan. Pollinations.ai and AI Horde are community services, not SLAs.</p>
+  <h3>Are the free models any good?</h3>
+  <p>Better than you'd expect. NVIDIA's free endpoints serve genuinely strong open models, Groq serves fast versions of popular ones, and OpenRouter's <code>:free</code> tag lets you test-drive dozens. You won't get frontier flagship quality free, but you get surprisingly close.</p>
+
+  <p class="verify">Last verified: 2026-10-15 · Quotas and model lists change — always confirm on the provider's own docs.</p>
 
   <!-- AD SLOT: above footer. Paste AdSense code inside this div. -->
   <div class="ad-slot" id="ad-above-footer"></div>
