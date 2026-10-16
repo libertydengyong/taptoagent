@@ -122,6 +122,9 @@ h3 { font-size: 1.08rem; margin: 1.4rem 0 .5rem; }
 .card dl { font-size: .93rem; }
 .card dt { color: var(--muted); font-size: .8rem; text-transform: uppercase; letter-spacing: .06em; margin-top: .55rem; }
 .card dd { margin: .1rem 0 0; }
+
+.card .tag.tier2 { background: none; border-style: dashed; opacity: .85; }
+
 .card .go { margin-top: auto; padding-top: .7rem; font-weight: 600; }
 .card .go a::after { content: " →"; }
 
