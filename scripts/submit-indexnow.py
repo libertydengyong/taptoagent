@@ -15,7 +15,9 @@ from xml.etree import ElementTree
 
 KEY = "81e45638e6af2e14c94e06363b5235be"
 HOST = "taptoagent.com"
-ENDPOINT = "https://api.indexnow.org/indexnow"
+# api.indexnow.org works too, but is unreachable from some networks;
+# bing.com/indexnow accepts the same payload.
+ENDPOINT = "https://www.bing.com/indexnow"
 
 
 def submit(urls):
