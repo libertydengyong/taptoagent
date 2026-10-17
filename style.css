@@ -216,3 +216,54 @@ code {
 .article th, .article td { text-align: left; padding: .7rem .9rem; border-bottom: 1px solid var(--border); white-space: nowrap; }
 .article th { color: var(--muted); font-size: .78rem; text-transform: uppercase; letter-spacing: .05em; }
 .article td:first-child { font-weight: 600; }
+
+/* ---- site search ---- */
+.search-btn {
+  display: inline-flex; align-items: center; gap: .45rem;
+  background: var(--surface-2); color: var(--muted);
+  border: 1px solid var(--border); border-radius: 999px;
+  padding: .42rem .8rem; font-size: .85rem; cursor: pointer;
+  margin-left: .25rem; white-space: nowrap;
+}
+.search-btn:hover { color: var(--text); border-color: var(--accent); }
+.search-btn svg { width: 15px; height: 15px; flex: none; }
+.search-btn kbd {
+  font-family: inherit; font-size: .72rem; color: var(--muted);
+  border: 1px solid var(--border); border-radius: 5px; padding: 0 .35rem;
+  background: var(--surface);
+}
+.search-overlay {
+  position: fixed; inset: 0; z-index: 100;
+  background: rgba(10, 12, 18, .55);
+  backdrop-filter: blur(3px); -webkit-backdrop-filter: blur(3px);
+  display: none; justify-content: center; align-items: flex-start;
+  padding: 12vh 1rem 1rem;
+}
+.search-overlay.open { display: flex; }
+.search-panel {
+  width: 100%; max-width: 620px; max-height: 70vh; overflow-y: auto;
+  background: var(--surface); border: 1px solid var(--border);
+  border-radius: var(--radius); box-shadow: var(--shadow);
+  padding: 1.1rem;
+}
+.search-input {
+  width: 100%; font-size: 1.05rem; padding: .7rem 1rem;
+  border: 1.5px solid var(--border); border-radius: 10px;
+  background: var(--bg); color: var(--text); outline: none;
+}
+.search-input:focus { border-color: var(--accent); }
+.search-group-label {
+  font-size: .72rem; font-weight: 700; text-transform: uppercase;
+  letter-spacing: .06em; color: var(--muted);
+  margin: 1.1rem 0 .35rem;
+}
+.search-hit { display: block; padding: .55rem .7rem; border-radius: 9px; }
+.search-hit:hover { background: var(--surface-2); text-decoration: none; }
+.search-hit-title { display: block; font-weight: 600; color: var(--text); font-size: .94rem; }
+.search-hit-desc { display: block; font-size: .82rem; color: var(--muted); margin-top: .15rem; }
+.search-empty { padding: 1.4rem .7rem; color: var(--muted); }
+.search-empty-hubs { margin-top: .8rem; font-size: .9rem; }
+@media (max-width: 640px) {
+  .search-btn kbd { display: none; }
+  .search-btn { padding: .42rem .6rem; }
+}

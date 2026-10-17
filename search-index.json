@@ -1,0 +1,415 @@
+[
+ {
+  "title": "Free AI Automation Tools, Tested and Honestly Labeled (2026)",
+  "url": "/agents/automation/",
+  "type": "hub",
+  "desc": "n8n, Make.com, and Zapier free tiers tested: Make.com is the most generous, n8n is only truly free self-hosted, Zapier gives two free tiers. Signup walls labele",
+  "keywords": "free ai automation tools（head词，#33打长尾）"
+ },
+ {
+  "title": "Free AI Coding Agents, Tested and Honestly Labeled (2026)",
+  "url": "/agents/coding/",
+  "type": "hub",
+  "desc": "9 free AI coding routes tested: open-source agents with Ollama, Cline, GitHub Copilot, HuggingChat and more. API key requirements and signup catches labeled.",
+  "keywords": "free ai coding agents（head词，#22/#23/#26打长尾）"
+ },
+ {
+  "title": "Free AI Video Generators, Tested and Honestly Labeled (2026)",
+  "url": "/agents/video/",
+  "type": "hub",
+  "desc": "11 AI video generators tested: Pixlr, Synthesia, Runway, Magic Hour, HeyGen, Kling AI and more. Free plans, signup walls, and watermark policies — honestly labe",
+  "keywords": "free ai video generators（head词，文章打长尾）"
+ },
+ {
+  "title": "No-Signup AI Chatbots, Tested and Ranked (2026)",
+  "url": "/agents/chat/",
+  "type": "hub",
+  "desc": "7 AI chatbots tested with no account: Duck.ai, Andi, LMArena, Venice.ai, Perchance, Brave Leo, Wsup.ai. Comparison table, free limits, and hands-on test reports",
+  "keywords": "no-signup ai chatbots"
+ },
+ {
+  "title": "No-Signup AI Image Generators, Tested (2026)",
+  "url": "/agents/image/",
+  "type": "hub",
+  "desc": "4 AI image generators tested with no account: Raphael AI, DeepAI, Pollinations.ai, Craiyon. Comparison table, free limits, and hands-on test reports.",
+  "keywords": "no-signup ai image generators"
+ },
+ {
+  "title": "Andi Search Review (2026): Conversational AI Search, No Sign Up",
+  "url": "/agents/andisearch.html",
+  "type": "agent",
+  "desc": "Andi search review: conversational AI search with direct answers, source links, no ads and no sign up. We tested accuracy, privacy, and limits.",
+  "keywords": ""
+ },
+ {
+  "title": "Brave Leo Review (2026): Free Private AI in Your Browser, No Sign Up",
+  "url": "/agents/brave-leo.html",
+  "type": "agent",
+  "desc": "Brave Leo review: the AI assistant built into the Brave browser. I tested whether it's really free, private, and account-free in 2026.",
+  "keywords": ""
+ },
+ {
+  "title": "Craiyon Review (2026): The Original Free AI Image Generator, No Sign Up",
+  "url": "/agents/craiyon.html",
+  "type": "agent",
+  "desc": "Craiyon review: the classic free AI image generator — 9 images per prompt, no sign up, free forever. We tested quality, speed, and limits.",
+  "keywords": ""
+ },
+ {
+  "title": "DeepAI Review (2026): Free AI Image Generator, No Sign Up",
+  "url": "/agents/deepai.html",
+  "type": "agent",
+  "desc": "DeepAI review: free text-to-image generation with no sign up. I tested the no-signup claim, output quality, and the catch behind the 'free' label.",
+  "keywords": ""
+ },
+ {
+  "title": "Duck.ai Review (2026): Free AI Chat With No Sign Up — Tested",
+  "url": "/agents/duck-ai.html",
+  "type": "agent",
+  "desc": "Duck.ai review: DuckDuckGo's free AI chat needs no sign up and strips your identity before prompts reach providers. We tested the models, limits, and privacy cl",
+  "keywords": ""
+ },
+ {
+  "title": "LMArena Review (2026): Free Frontier AI Models, No Sign Up",
+  "url": "/agents/lmarena-ai.html",
+  "type": "agent",
+  "desc": "LMArena review: free anonymous AI model battles and leaderboards with no sign up. I tested battle mode, free limits, and whether it's the best way to try fronti",
+  "keywords": ""
+ },
+ {
+  "title": "Mage.space Review (2026): Now Requires Login — No-Signup Alternatives",
+  "url": "/agents/mage-space.html",
+  "type": "agent",
+  "desc": "Mage.space added a login wall in 2026 and was removed from our no-signup directory. Re-tested 2026-10-15, plus the no-signup image generators that still work.",
+  "keywords": ""
+ },
+ {
+  "title": "Perchance AI Review (2026): Free Unlimited AI Chat & Images, No Sign Up",
+  "url": "/agents/perchance.html",
+  "type": "agent",
+  "desc": "Perchance AI review: free unlimited AI chat and image generation with no sign up. We tested the character chat, image quality, and whether 'unlimited' is real.",
+  "keywords": ""
+ },
+ {
+  "title": "Pollinations.ai Review (2026): Free AI Images & Text, No API Key",
+  "url": "/agents/pollinations-ai.html",
+  "type": "agent",
+  "desc": "Pollinations.ai review: free AI image and text generation with no sign up and no API key. We tested quality, speed, and the API developers love.",
+  "keywords": ""
+ },
+ {
+  "title": "Raphael AI Review (2026): Free Unlimited Text-to-Image, No Sign Up — I Tested It",
+  "url": "/agents/raphael-ai.html",
+  "type": "agent",
+  "desc": "Raphael AI review: unlimited free text-to-image generation with no sign up. I tested the free tier, output quality, the watermark catch, and whether 'unlimited'",
+  "keywords": ""
+ },
+ {
+  "title": "Venice AI Review (2026): Private Uncensored Chat With a Real Free Tier, No Sign Up",
+  "url": "/agents/venice-ai.html",
+  "type": "agent",
+  "desc": "Venice AI review: private, uncensored AI chat with a working no-signup guest mode. I tested the free tier, privacy claims, and model quality — plus where Pro $1",
+  "keywords": ""
+ },
+ {
+  "title": "Wsup.ai Review (2026): Shut Down in June — the Live No-Signup Replacement Is WSUP AI",
+  "url": "/agents/wsup-ai.html",
+  "type": "agent",
+  "desc": "Wsup.ai review: the original wsup.ai shut down on June 19, 2026 and the domain is gone. WSUP AI (wsupai.app) is the independent, live replacement — I tested its",
+  "keywords": ""
+ },
+ {
+  "title": "5 AI Logo Makers With No Sign-Up Wall, Compared (2026)",
+  "url": "/blog/free-ai-logo-maker-no-sign-up.html",
+  "type": "article",
+  "desc": "Need a free AI logo maker with no sign up? We compared 5 account-free tools on download gates, file formats, transparency, and commercial rights.",
+  "keywords": ""
+ },
+ {
+  "title": "5 AI Presentation Makers You Can Use Without an Account (2026)",
+  "url": "/blog/free-ai-presentation-maker-no-sign-up.html",
+  "type": "article",
+  "desc": "Need a free AI presentation maker with no sign up? We compared 5 account-free tools on AI slide generation, PPTX export, templates, document import, and the rea",
+  "keywords": ""
+ },
+ {
+  "title": "5 AI Translators That Don’t Make You Sign Up, Tested (2026)",
+  "url": "/blog/free-ai-translator-no-sign-up.html",
+  "type": "article",
+  "desc": "Need a free AI translator with no sign up? We compared 5 account-free tools on language coverage, character limits, translation quality, and privacy.",
+  "keywords": ""
+ },
+ {
+  "title": "5 AI Video Generators That Work Without an Account, Tested (2026)",
+  "url": "/blog/free-ai-video-generator-no-sign-up.html",
+  "type": "article",
+  "desc": "Need a free AI video generator with no sign up? We retested the landscape in October 2026 and found 5 tools that document real text-to-video and image-to-video ",
+  "keywords": ""
+ },
+ {
+  "title": "5 Background Removers That Work Without an Account, Tested (2026)",
+  "url": "/blog/free-ai-background-remover-no-sign-up.html",
+  "type": "article",
+  "desc": "Need a free AI background remover with no sign up? We compared 5 account-free tools on edge quality, output resolution, watermarks, and limits.",
+  "keywords": ""
+ },
+ {
+  "title": "Best Free AI Agents Without Sign-Up, Ranked After Testing 11 (2026)",
+  "url": "/blog/best-free-ai-agents-no-signup-ranked.html",
+  "type": "article",
+  "desc": "The 5 best free AI agents that work without signing up, ranked from hands-on testing of all 11 in our directory. Duck.ai, Andi, Raphael, DeepAI, and one fun pic",
+  "keywords": "best free ai agent / best free ai agents"
+ },
+ {
+  "title": "Best Free AI Automation Tools, Free Tiers Honestly Labeled (2026)",
+  "url": "/blog/best-free-ai-automation-tools-tested.html",
+  "type": "article",
+  "desc": "n8n, Make.com, and Zapier free tiers checked: Make.com is the most generous, n8n is only truly free self-hosted, Zapier gives two free tiers. All need an accoun",
+  "keywords": "best free ai automation tools"
+ },
+ {
+  "title": "Best Free AI Coding Agents, With the Signup Catch Labeled (2026)",
+  "url": "/blog/best-free-ai-coding-agents-tested.html",
+  "type": "article",
+  "desc": "The best free AI coding agents — Copilot, Cline, Duck.ai, 1minAI, HuggingChat — checked for what free really means. Only one works with no sign-up.",
+  "keywords": "best free ai agent for coding / free ai coding agent"
+ },
+ {
+  "title": "Duck.ai vs Venice.ai: Which No-Signup AI Chatbot Wins in 2026?",
+  "url": "/blog/duck-ai-vs-venice-ai-no-signup.html",
+  "type": "article",
+  "desc": "Duck.ai vs Venice.ai compared head to head: privacy, models, free limits, and the real no-sign-up experience. One anonymizes Big Tech models; the other runs unc",
+  "keywords": ""
+ },
+ {
+  "title": "Free AI Agents With Unlimited Use: What's Actually Real (2026)",
+  "url": "/blog/free-ai-agents-unlimited-use-real.html",
+  "type": "article",
+  "desc": "Is there a free AI coding agent that's truly unlimited? We investigated 9Router's bold claim and mapped every honest 'unlimited' — each with its asterisk found.",
+  "keywords": "free ai agent unlimited / is there a free ai coding agent that is unlimited"
+ },
+ {
+  "title": "Free AI Agents for Mobile: No App Install Needed (2026)",
+  "url": "/blog/free-ai-agents-mobile-no-install.html",
+  "type": "article",
+  "desc": "The best free AI agents you can use on your phone with no app install and no sign-up. They run in your mobile browser — we verified each one.",
+  "keywords": "free ai agent for mobile"
+ },
+ {
+  "title": "Free AI Coding Agent for VS Code: The Setup That Works in 2026",
+  "url": "/blog/free-ai-coding-agent-vs-code-setup.html",
+  "type": "article",
+  "desc": "The free AI coding agent setup for VS Code that actually works: Cline or Continue plus a free Google AI Studio key. We also checked two dead ends so you don't h",
+  "keywords": "free ai coding agent for vs code / is the ai agent in vs code free"
+ },
+ {
+  "title": "Free AI Coding Agents With No API Key, Actually Tested (2026)",
+  "url": "/blog/free-ai-coding-agents-no-api-key.html",
+  "type": "article",
+  "desc": "Which free AI coding agents really work with no API key? We verified Freebuff, OpenCode, and the local-model route. Only one setup needs nothing at all.",
+  "keywords": "free ai coding agent no api key"
+ },
+ {
+  "title": "Free AI Desktop Agents You Can Download: AgentOne vs OpenClaw (2026)",
+  "url": "/blog/free-ai-desktop-agents-download.html",
+  "type": "article",
+  "desc": "Two genuinely free AI desktop agents, verified: AgentOne (free forever, no account needed) and OpenClaw (MIT open-source, 392k stars, bring your own model).",
+  "keywords": "free ai desktop agent / ai agent free download / ai desktop agent"
+ },
+ {
+  "title": "Free AI Talking Video Generators, Watermarks Exposed (2026)",
+  "url": "/blog/free-ai-talking-video-generator-tested.html",
+  "type": "article",
+  "desc": "Synthesia, VisionStory, and Puppetry all have real free plans with no credit card — but every one watermarks free videos. Signup walls compared.",
+  "keywords": "free ai talking video generator"
+ },
+ {
+  "title": "Free AI Video Agent Generators: One Is Free, One Pretends (2026)",
+  "url": "/blog/free-ai-video-agent-generator-tested.html",
+  "type": "article",
+  "desc": "We verified two 'free AI video agent' claims: Meta's Vibes is genuinely free, AITOPIA's 'free' is fiction. Here's what each actually costs.",
+  "keywords": "free ai agent video generator / free ai video agent"
+ },
+ {
+  "title": "Free AI Video Generators With No Sign Up, Promise Tested (2026)",
+  "url": "/blog/free-ai-video-generator-no-sign-up-tested.html",
+  "type": "article",
+  "desc": "Magic Hour's 'No Sign Up' promise breaks at the generate button. invideo AI has no free tier. Runway gives credits but demands signup. We clicked through all th",
+  "keywords": "free ai video generator no sign up"
+ },
+ {
+  "title": "Free AI Video Generators Without Watermark, Claims Tested (2026)",
+  "url": "/blog/free-ai-video-generator-without-watermark-tested.html",
+  "type": "article",
+  "desc": "Pixlr's no-watermark promise is real — with signup and trial credits. HeyGen's 'Without Watermark' title is misleading. Kling AI never claimed it.",
+  "keywords": "free ai video generator without watermark"
+ },
+ {
+  "title": "I Built Resumes With 5 AI Tools — No Sign-Up Required (2026)",
+  "url": "/blog/free-ai-resume-builder-no-sign-up.html",
+  "type": "article",
+  "desc": "Need a free AI resume builder with no sign up? We compared 5 account-free tools on templates, ATS-friendliness, AI writing help, PDF export, and privacy.",
+  "keywords": ""
+ },
+ {
+  "title": "I Checked 8 “Free” AI Video Generators: The No-Sign-Up Truth (2026)",
+  "url": "/blog/free-ai-video-generator-no-sign-up-truth.html",
+  "type": "article",
+  "desc": "Looking for a free AI video generator with no sign up? I checked 8 tools that claim it. Most demand an account before rendering a single frame. Here's what actu",
+  "keywords": ""
+ },
+ {
+  "title": "I Tested 12 No-Sign-Up AI Chatbots — 7 Actually Work (2026)",
+  "url": "/blog/i-tested-12-no-signup-ai-agents.html",
+  "type": "article",
+  "desc": "Looking for a free AI chatbot with no sign up? I opened 12 no-signup AI chatbots and actually used each one. 7 passed the test, 5 failed. Honest results.",
+  "keywords": ""
+ },
+ {
+  "title": "I Tested 4 No Sign Up AI Image Upscalers and Only 2 Let Me Download (2026)",
+  "url": "/blog/no-signup-ai-image-upscaler-tested.html",
+  "type": "article",
+  "desc": "I ran 4 'no sign-up' AI image upscalers through the full upload-to-download loop as a logged-out visitor. Two delivered, one looped forever on verification, one",
+  "keywords": "ai image upscaler no sign up / free image upscaler no account"
+ },
+ {
+  "title": "I Tested 5 AI Image Generators Without Signing Up — 3 Are Actually Good (2026)",
+  "url": "/blog/free-ai-image-generator-no-sign-up-tested.html",
+  "type": "article",
+  "desc": "Need a free AI image generator with no sign up? I ran the same 3 prompts through 5 account-free generators and compared the results. 3 passed, 2 didn't.",
+  "keywords": ""
+ },
+ {
+  "title": "I Tested 6 AI Music Generators With No Account — 3 Are Actually Good (2026)",
+  "url": "/blog/free-ai-music-generator-no-sign-up-tested.html",
+  "type": "article",
+  "desc": "Need a free AI music generator with no sign up? I ran the same prompt through 6 tools without creating any account. 3 passed, 3 didn't.",
+  "keywords": ""
+ },
+ {
+  "title": "I Tested 6 AI Voice Generators Without an Account — 3 Are Actually Good (2026)",
+  "url": "/blog/free-ai-voice-generator-no-sign-up-tested.html",
+  "type": "article",
+  "desc": "Need a free AI voice generator with no sign up? I ran the same script through 6 text-to-speech tools without creating any account. 3 passed, 3 didn't.",
+  "keywords": ""
+ },
+ {
+  "title": "Is Kimi AI Agent Free? Two Doors, Verified (2026)",
+  "url": "/blog/kimi-ai-agent-free-verified.html",
+  "type": "article",
+  "desc": "Kimi's official desktop agent needs an account. But a third party serves Kimi K2.5 with no login and 200k free tokens a day — we tested it.",
+  "keywords": "kimi ai agent free / is there a free chinese ai agent"
+ },
+ {
+  "title": "Is There a Completely Free AI Agent? The Honest Answer (2026)",
+  "url": "/blog/is-there-completely-free-ai-agent.html",
+  "type": "article",
+  "desc": "Is there a completely free AI agent? Yes — but 'free' means four different things. We map each one to tools we actually verified, with every catch labeled.",
+  "keywords": "is there a completely free ai agent / free trial for ai agents / totally free ai companion"
+ },
+ {
+  "title": "Is There a Free AI Personal Assistant? We Asked Without an Account (2026)",
+  "url": "/blog/is-there-a-free-ai-personal-assistant.html",
+  "type": "article",
+  "desc": "Yes — ChatGPT's free tier answered our messages with no login at all. We tested it anonymously. Meta AI could not be verified from our environment.",
+  "keywords": "is there a free ai personal assistant"
+ },
+ {
+  "title": "Mage.space Put Up a Login Wall, So We Took It Down: The Full Story (2026)",
+  "url": "/blog/why-we-delisted-mage-space.html",
+  "type": "article",
+  "desc": "Mage.space added a login wall, so we removed it from our no-signup directory the same day. What the wall looks like, why we don't do grace periods, and the gene",
+  "keywords": ""
+ },
+ {
+  "title": "No-Code AI Agent Builders Tested: What Free Actually Gets You (2026)",
+  "url": "/blog/no-code-ai-agent-builders-tested.html",
+  "type": "article",
+  "desc": "Can you build an AI agent with no code and no sign-up? I checked Voiceflow, Botpress, Relevance AI, and Lindy as a logged-out visitor. All four require an accou",
+  "keywords": "ai agents no code / create free ai agents"
+ },
+ {
+  "title": "No-Sign-Up PDF Summarizers: 5 AI Tools Compared (2026)",
+  "url": "/blog/free-ai-pdf-summarizer-no-sign-up.html",
+  "type": "article",
+  "desc": "Need a free AI PDF summarizer with no sign up? We compared 5 account-free tools on page limits, summary quality, chat-with-PDF features, and privacy.",
+  "keywords": ""
+ },
+ {
+  "title": "Stop Signing Up for AI Email Apps: The No-Account Guide (2026)",
+  "url": "/blog/ai-email-writer-no-sign-up-guide.html",
+  "type": "article",
+  "desc": "You don't need another account for another single-purpose AI app. The no-sign-up chatbots already write excellent emails — here's the exact workflow, prompts, a",
+  "keywords": ""
+ },
+ {
+  "title": "These 4 AI Tools Promise No Sign-Up. I Tested Every One. (2026)",
+  "url": "/blog/ai-tools-signup-wall-myth-tested.html",
+  "type": "article",
+  "desc": "People search 'c.ai no sign up' hoping to skip registration. I visited Character.AI, Rizz, Writer, and Question AI as a logged-out visitor — all four demand sig",
+  "keywords": "c.ai no sign up / rizz ai free no sign up / writer ai free no sign up / question ai free account"
+ },
+ {
+  "title": "They Said No Sign-Up: 5 Email Traps Hiding in 'Free' AI Tools (2026)",
+  "url": "/blog/no-signup-ai-tools-email-traps.html",
+  "type": "article",
+  "desc": "Not every 'no sign-up' AI tool is lying — but five common traps will still cost you an email address. What each trap looks like, and a 30-second test to spot th",
+  "keywords": "no sign-up traps / fake no signup / email trap AI tools"
+ },
+ {
+  "title": "We Tested 3 Free Research AI Agents. Only One Needs No Signup (2026)",
+  "url": "/blog/free-ai-agents-for-research-tested.html",
+  "type": "article",
+  "desc": "Andi works with no account at all. Perplexity's free tier now blocks anonymous searches behind signup. You.com killed its consumer search. Tested October 2026.",
+  "keywords": "free ai agents for research"
+ },
+ {
+  "title": "What Reddit Recommends for Free AI Chatbots, Verified Hands-On (2026)",
+  "url": "/blog/reddit-free-ai-agents-verified.html",
+  "type": "article",
+  "desc": "Reddit's consensus picks for free AI chatbots — ChatGPT, Claude, Copilot, Perplexity, Duck.ai — cross-checked against our own no-signup testing. Most need accou",
+  "keywords": "free ai agent reddit"
+ },
+ {
+  "title": "About TapToAgent - Our No-Signup Curation Standard",
+  "url": "/about.html",
+  "type": "page",
+  "desc": "How TapToAgent curates: every AI agent is personally verified to work without an account. Our update policy and disclaimer.",
+  "keywords": "about TapToAgent / curation standard"
+ },
+ {
+  "title": "Blog - Tested Reviews of No-Signup AI Agents",
+  "url": "/blog/",
+  "type": "page",
+  "desc": "Hands-on tests and honest reviews of no-signup AI agents. No press releases, no sponsored rankings — we open each tool and actually use it.",
+  "keywords": ""
+ },
+ {
+  "title": "Free AI APIs - Gemini, NVIDIA, Groq, No Credit Card",
+  "url": "/free-apis.html",
+  "type": "page",
+  "desc": "Free AI API channels for developers: Google AI Studio's generous Gemini tier, NVIDIA NIM free endpoints, Groq, Pollinations and more. No credit card required to",
+  "keywords": "free AI API no credit card / free AI APIs for developers"
+ },
+ {
+  "title": "No Signup AI Agents Directory - Free AI Tools, No Login",
+  "url": "/agents.html",
+  "type": "page",
+  "desc": "Browse 11 free AI agents that work with no sign up — AI chatbots and image generators, each hands-on reviewed. No login, no account, no email required.",
+  "keywords": "free AI agents no sign up"
+ },
+ {
+  "title": "Page Not Found - TapToAgent",
+  "url": "/404.html",
+  "type": "page",
+  "desc": "This page doesn't exist — but plenty of free AI agents with no sign-up do. Start from the directory.",
+  "keywords": ""
+ },
+ {
+  "title": "TapToAgent – Free AI Tools With No Sign-Up",
+  "url": "/",
+  "type": "page",
+  "desc": "TapToAgent lists free AI agents you can use instantly — no sign up, no login, no account. Every agent personally verified: open it and start chatting or creatin",
+  "keywords": "TapToAgent（品牌词）+ free AI tools no sign-up（宽泛）"
+ }
+]
